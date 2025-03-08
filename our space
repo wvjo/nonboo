@@ -1,10 +1,38 @@
-<html> 
-  <head> <title> luvers space </title> </head> 
-  <body>  <p align=center> 
-  <css size="24"> <css color="cccccc"> our little world <br>
-  <css size="18"> <css color="#cc9999"> ♡welcome to our little world♡ 
-  <p> <p align="center"> first, let me spill what's on ma heart <br> if only i had 717 ways to tell u i LOVE YOU <p>
-  <br> <71b5087c-6ee9-406f-ba87-9575b79da65f.jpeg" align="middle"height= "400" width= "300"> us <img src= "a8e7a9e5-ba95-4c39-827a-6eeb6deac6bb.jpegg" height= "400" width= "300"> 
-  <p> <p align="center"> having u in ma life is a blessing & if u ever choose to share what's on ur mind, just know i'll always be here for u
-  </body>
-  </html> 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luvers Space</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            background-color: #000;
+            color: #ccc;
+        }
+        h1 {
+            font-size: 24px;
+        }
+        p {
+            font-size: 18px;
+            color: #cc9999;
+        }
+        .image {
+            width: 300px;
+            height: 400px;
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Our Little World</h1>
+    <p>♡ Welcome to our little world ♡</p>
+    <p>First, let me spill what's on my heart <br> If only I had 717 ways to tell you I LOVE YOU</p>
+
+    <!-- استبدل هذه الروابط بروابط الصور الصحيحة بعد رفعها إلى GitHub أو استضافة أخرى -->
+    <img src="IMAGE_URL_1" class="image" alt="Image 1">
+    <img src="IMAGE_URL_2" class="image" alt="Image 2">
+
+    <p>Having you in my life is a blessing, and if you ever choose to share what's on your mind, just know I'll always be here for you.</p>
+</body>
+</html>
